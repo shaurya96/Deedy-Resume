@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Deedy - One Page Two Column Resume
 % LaTeX Template
-% Version 1.2 (16/9/2014)
+% Version 1.1 (30/4/2014)
 %
 % Original author:
 % Debarghya Das (http://debarghyadas.com)
@@ -44,13 +44,9 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
 \documentclass[]{deedy-resume-openfont}
-\usepackage{fancyhdr}
- 
-\pagestyle{fancy}
-\fancyhf{}
- 
+
+
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -65,8 +61,10 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+
+
+\namesection{Shaurya}{Jain}{ \urlstyle{same}\url{http://shaurya96.me} \\
+\href{mailto:sj762@snu.edu.in}{sj762@snu.edu.in}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,22 +81,12 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection{Shiv Nadar University}
+\descript{BTech in Computer Science}
+\location{Expected April 2019 | Uttar Pradesh \\ Cum. GPA: 6.7}
 \sectionsep
-
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
-\sectionsep
-
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
+\subsection{St Xaviers School}
+\location{Grad. April 2014 | Jaipur, Rajasthan}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -106,51 +94,36 @@ Major GPA: 3.9 / 4.0}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
+Github:// \href{https://github.com/shaurya96}{\custombold{shaurya96}} \\
+LinkedIn://  \href{https://www.linkedin.com/in/shaurya-jain-346445114/}{\custombold{ShauryaJain}} \\
+Quora://  \href{https://www.quora.com/profile/Shaurya-Jain-30}{\custombold{Shauryajain96}}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
-\sectionsep
 
-\subsection{Undergraduate}
-Information Retrieval \\
+\section{CourseWork}
+Computer Organization \\
+Computer Architecture \\
+Computer Networks \\
+Discrete Mathematics  \\
+Database Systems \\
 Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Software Engineering \\
+Systems Programming \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+Java \textbullet{}  Python \textbullet{} C  \\ 
+Django\textbullet{} Android \textbullet{} MySQL \\
+HTML \textbullet{} CSS \textbullet{} Git \\ 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -167,51 +140,67 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
+\section{Projects}
+\runsubsection{OCMS-Online Crime Management System} \\
+\location{Sept 2016 – Nov 2016 }
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Created News Activity for this App Using List View \\ 
+\end{tightemize}
+Github Link:// \href{https://github.com/shaurya96/OCMS}{\custombold{OCMS}} \\ 
 \sectionsep
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\runsubsection{Online Music Cloud} \\
+\location{July 2017 – July 2017}
+\begin{tightemize}
+\item Website with Python as backend and HTML,CSS as backend.
+\item It's a personalized website which maintains a list of favourite album  
+\item You can add delete or edit the album too.  
+\end{tightemize}
+Github Link:// \href{https://github.com/shaurya96/Online-Music-Cloud}{\custombold{Online-Music-Cloud}} \\ 
+\sectionsep
+
+\runsubsection{Customized Movie Website} \\
+\location{June 2017 – July 2017}
+\begin{tightemize}
+\item Website with Python as backend and HTML,CSS as backend.
+\item It's a personalized website which maintains a list of Favourite movies. 
+\item You can play the trailer of the movies too.  
+\end{tightemize}
+Github Link:// \href{https://github.com/shaurya96/Customized-Movie-Website}{\custombold{Customized-Movie Website}} \\ 
+\sectionsep
+
+\runsubsection{Udacity Android Development} \\
+\location{May 2017 – July 2017}
+\begin{tightemize}
+\item \href{https://github.com/shaurya96/Top10downloader}{\custombold{Top10Dowloader}}
+\item An app which tells the top 10 trending apps using XML parsing.
+\item Sunshine App
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\runsubsection{Mobile Inventory System} \\
+\location{Jan 2017 – April 2017}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
-\sectionsep
-
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
-\begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+\item It's a DBMS Project with Java as frontend ans MySQL as backend.
+\item It maintains the stock of mobile companies where managers have acces to database. 
+\end{tightemize}
+Github Link:// \href{https://github.com/shaurya96/DBMS_Project}{\custombold{Mobile-Inventory-System}} \\ 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\section{INTERNSHIP/PROFESSIONAL EXPERIENCE}
+\runsubsection{Plinth 2017}
+\location{LNMIIT,Jaipur}
+Attended \textbf{\href{https://en.wikitolearn.org/Main_Page}{\custombold{Wikitolearn}}} conference.\\
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
+\runsubsection{Data Structures and Algorithms}\\
+Currently learning Data Structures and Algorithms from Ravindra 
+babu Ravula for interview preparatio.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -220,24 +209,35 @@ Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-
 
 \section{Awards} 
 \begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
+2007  &      1\textsuperscript{st}/500  & State Level Abacus Competition \\
+2016	     & 1776\textsuperscript{th}/3500   & ACM-ICPC Qualification Round\\
+2009	     & 3\textsuperscript{rd}/50  & Eicher Inter School Quiz Competition\\
+2008     & 2\textsuperscript{nd}/100 & International Informatics Olympiad(School Level)  \\
 \end{tabular}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
+%     SOCIETIES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
+\section{Societies} 
+\begin{tabular}{rll}
+2017  & National   & Github Student Developer Pack\\
+2017  &  National  & ACM Association\\
+\end{tabular}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXTRACURRICULAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Extracurrricular} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Secured 1\textsuperscript{st} position at debates and play competition at school level.
+\item Currently plays cricket in college league.
+\end{tightemize}
+\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
