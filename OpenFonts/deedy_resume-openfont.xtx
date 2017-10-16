@@ -9,7 +9,7 @@
 % Original repository:
 % https://github.com/deedydas/Deedy-Resume
 %
-% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTe
 %
 % This template uses several fonts not included with Windows/Linux by
 % default. If you get compilation errors saying a font is missing, find the line
@@ -127,6 +127,21 @@ HTML \textbullet{} CSS \textbullet{} Git \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXTRACURRICULAR
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+ \section{Extracurrricular} 
+ \vspace{\topsep} % Hacky fix for awkward extra vertical space
+ \begin{tightemize}
+ \item Secured 1\textsuperscript{st} position at debates \\
+  and play competition at school \\
+  level.
+ \item Currently plays cricket in \\
+    college league.
+ \end{tightemize}
+ \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
 %
@@ -200,7 +215,7 @@ Attended \textbf{\href{https://en.wikitolearn.org/Main_Page}{\custombold{Wikitol
 
 \runsubsection{Data Structures and Algorithms}\\
 Currently learning Data Structures and Algorithms from Ravindra 
-babu Ravula for interview preparatio.
+babu Ravula for interview preparation.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -225,18 +240,6 @@ babu Ravula for interview preparatio.
 2017  & National   & Github Student Developer Pack\\
 2017  &  National  & ACM Association\\
 \end{tabular}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXTRACURRICULAR
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Extracurrricular} 
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Secured 1\textsuperscript{st} position at debates and play competition at school level.
-\item Currently plays cricket in college league.
-\end{tightemize}
 \sectionsep
 
 \end{minipage} 
