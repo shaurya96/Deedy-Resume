@@ -83,7 +83,7 @@
 
 \subsection{Shiv Nadar University}
 \descript{BTech in Computer Science}
-\location{Expected April 2019 | Uttar Pradesh \\ Cum. GPA: 6.7}
+\location{Expected April 2019 | Uttar Pradesh \\ Cum. GPA: 7.03}
 \sectionsep
 \subsection{St Xaviers School}
 \location{Grad. April 2014 | Jaipur, Rajasthan}
@@ -140,6 +140,19 @@ HTML \textbullet{} CSS \textbullet{} Git \\
     college league.
  \end{tightemize}
  \sectionsep
+ 
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SOCIETIES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Societies} 
+ \vspace{\topsep} % Hacky fix for awkward extra vertical space
+ \begin{tightemize}
+ \item Acive member of ACM Association.
+ \item Active user member of Github Student\\
+       pack.
+ \end{tightemize}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -185,13 +198,13 @@ Github Link:// \href{https://github.com/shaurya96/Online-Music-Cloud}{\custombol
 Github Link:// \href{https://github.com/shaurya96/Customized-Movie-Website}{\custombold{Customized-Movie Website}} \\ 
 \sectionsep
 
-\runsubsection{Udacity Android Development} \\
-\location{May 2017 – July 2017}
+\runsubsection{Cabpool App} \\
+\location{May 2017 – Ongoing}
 \begin{tightemize}
-\item \href{https://github.com/shaurya96/Top10downloader}{\custombold{Top10Dowloader}}
-\item An app which tells the top 10 trending apps using XML parsing.
-\item Sunshine App
+\item An app which helps people of an organization to book a private cab where Ola and Uber services are not guaranteed.
+\item I worked basically on implementing Google Maps API and UI for best UX.
 \end{tightemize}
+Github Link:// \href{https://github.com/shaurya96/se-project}{\custombold{Cabpool App}} \\ 
 \sectionsep
 
 \runsubsection{Mobile Inventory System} \\
@@ -202,6 +215,7 @@ Github Link:// \href{https://github.com/shaurya96/Customized-Movie-Website}{\cus
 \end{tightemize}
 Github Link:// \href{https://github.com/shaurya96/DBMS_Project}{\custombold{Mobile-Inventory-System}} \\ 
 \sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     RESEARCH
@@ -231,16 +245,8 @@ babu Ravula for interview preparation.
 \end{tabular}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SOCIETIES
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Societies} 
-\begin{tabular}{rll}
-2017  & National   & Github Student Developer Pack\\
-2017  &  National  & ACM Association\\
-\end{tabular}
-\sectionsep
+
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
