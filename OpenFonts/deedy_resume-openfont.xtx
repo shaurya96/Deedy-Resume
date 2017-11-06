@@ -121,9 +121,10 @@ Systems Programming \\
 
 \section{Skills}
 \subsection{Programming}
-Java \textbullet{}  Python \textbullet{} C  \\ 
-Django\textbullet{} Android \textbullet{} MySQL \\
-HTML \textbullet{} CSS \textbullet{} Git \\ 
+Java(Intermediate) \textbullet{}  Python(Basic) \\
+C(Basic)\textbullet{} Django(Basic) Android(Intermediate) \\
+MySQL(Basic)\textbullet{} HTML(Basic) \\ 
+CSS(Basic) \textbullet{} Git(Basic) \\ 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -181,7 +182,7 @@ Github Link:// \href{https://github.com/shaurya96/OCMS}{\custombold{OCMS}} \\
 \runsubsection{Online Music Cloud} \\
 \location{July 2017 – July 2017}
 \begin{tightemize}
-\item Website with Python as backend and HTML,CSS as backend.
+\item Website with Python as backend and HTML,CSS as frontend.
 \item It's a personalized website which maintains a list of favourite album  
 \item You can add delete or edit the album too.  
 \end{tightemize}
@@ -191,7 +192,7 @@ Github Link:// \href{https://github.com/shaurya96/Online-Music-Cloud}{\custombol
 \runsubsection{Customized Movie Website} \\
 \location{June 2017 – July 2017}
 \begin{tightemize}
-\item Website with Python as backend and HTML,CSS as backend.
+\item Website with Python as backend and HTML,CSS as frontend.
 \item It's a personalized website which maintains a list of Favourite movies. 
 \item You can play the trailer of the movies too.  
 \end{tightemize}
