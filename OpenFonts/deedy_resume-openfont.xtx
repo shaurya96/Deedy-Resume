@@ -233,9 +233,16 @@ Currently learning Data Structures and Algorithms from Ravindra
 babu Ravula for interview preparation.
 \sectionsep
 
+\runsubsection{Breeze Website Developement Team}\\
+Was part of Breeze(Annual Cultural technical and sports fest)
+Backend Developer Team as backend developer in django.
+\sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
 
 \section{Awards} 
 \begin{tabular}{rll}
@@ -245,9 +252,5 @@ babu Ravula for interview preparation.
 2008     & 2\textsuperscript{nd}/100 & International Informatics Olympiad(School Level)  \\
 \end{tabular}
 \sectionsep
-
-
-
-
 \end{minipage} 
 \end{document}  \documentclass[]{article}
