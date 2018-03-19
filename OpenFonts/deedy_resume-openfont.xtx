@@ -208,13 +208,13 @@ Github Link:// \href{https://github.com/shaurya96/Customized-Movie-Website}{\cus
 Github Link:// \href{https://github.com/shaurya96/Cabpool_App}{\custombold{Cabpool App}} \\ 
 \sectionsep
 
-\runsubsection{Mobile Inventory System} \\
-\location{Jan 2017 – April 2017}
+\runsubsection{LeTalent} \\
+\location{Jan 2018 – Ongoing}
 \begin{tightemize}
-\item It's a DBMS Project with Java as frontend ans MySQL as backend.
-\item It maintains the stock of mobile companies where managers have acces to database. 
+\item It's a Talent Marketplace where freelancers can showcase their skills.
+\item It's build using Node.js, express.js, mongodb as backend and React.js as frontend. 
 \end{tightemize}
-Github Link:// \href{https://github.com/shaurya96/DBMS_Project}{\custombold{Mobile-Inventory-System}} \\ 
+Github Link:// \href{https://github.com/shaurya96/letalent}{\custombold{LeTalent}} \\ 
 \sectionsep
 
 
