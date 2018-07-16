@@ -63,7 +63,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\namesection{Shaurya}{Jain}{ \urlstyle{same}\url{http://shaurya96.me} \\
+\namesection{Shaurya}{Jain}{ \urlstyle{same}\url{http://shaurya96.github.io} \\
 \href{mailto:sj762@snu.edu.in}{sj762@snu.edu.in}
 }
 
@@ -94,9 +94,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Github:// \href{https://github.com/shaurya96}{\custombold{shaurya96}} \\
-LinkedIn://  \href{https://www.linkedin.com/in/shaurya-jain-346445114/}{\custombold{ShauryaJain}} \\
-Quora://  \href{https://www.quora.com/profile/Shaurya-Jain-30}{\custombold{Shauryajain96}}
+\textbf{Github}: {\custombold{https://github.com/shaurya96}} \\
+\textbf{LinkedIn}: {\custombold{https://www.linkedin.com/\\
+in/shaurya-jain-346445114/}} \\
+\textbf{Quora}: {\custombold{https://www.quora.com/\\
+profile/Shaurya-Jain-30}}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -121,7 +123,7 @@ Systems Programming \\
 
 \section{Skills}
 \subsection{Programming}
-Java(Intermediate) \textbullet{}  Python(Basic) \\
+Java(Intermediate) \textbullet{}  Python(Intermediate) \\
 C(Basic)\textbullet{} Django(Basic) Android(Intermediate) \\
 MySQL(Basic)\textbullet{} HTML(Basic) \\ 
 CSS(Basic) \textbullet{} Git(Basic) \\ 
@@ -138,7 +140,7 @@ CSS(Basic) \textbullet{} Git(Basic) \\
  \item Secured 1\textsuperscript{st} position at debates \\
   and play competition at school \\
   level.
- \item Currently playing cricket in \\
+ \item Played cricket in \\
     college league.
  \end{tightemize}
  \sectionsep
@@ -177,7 +179,7 @@ CSS(Basic) \textbullet{} Git(Basic) \\
 \begin{tightemize}
 \item Created News Activity for this App Using List View \\ 
 \end{tightemize}
-Github Link:// \href{https://github.com/shaurya96/OCMS}{\custombold{OCMS}} \\ 
+Github Link: {\custombold{https://github.com/shaurya96/OCMS}} \\ 
 \sectionsep
 
 \runsubsection{Online Music Cloud} \\
@@ -187,7 +189,7 @@ Github Link:// \href{https://github.com/shaurya96/OCMS}{\custombold{OCMS}} \\
 \item It's a personalized website which maintains a list of favourite album  
 \item You can add delete or edit the album too.  
 \end{tightemize}
-Github Link:// \href{https://github.com/shaurya96/Online-Music-Cloud}{\custombold{Online-Music-Cloud}} \\ 
+Github Link: {\custombold{https://github.com/shaurya96/Online-Music-Cloud}} \\ 
 \sectionsep
 
 \runsubsection{Customized Movie Website} \\
@@ -197,7 +199,7 @@ Github Link:// \href{https://github.com/shaurya96/Online-Music-Cloud}{\custombol
 \item It's a personalized website which maintains a list of Favourite movies. 
 \item You can play the trailer of the movies too.  
 \end{tightemize}
-Github Link:// \href{https://github.com/shaurya96/Customized-Movie-Website}{\custombold{Customized-Movie Website}} \\ 
+Github Link: {\custombold{https://github.com/shaurya96/Customized-Movie-Website}} \\ 
 \sectionsep
 
 \runsubsection{Cabpool App} \\
@@ -206,7 +208,7 @@ Github Link:// \href{https://github.com/shaurya96/Customized-Movie-Website}{\cus
 \item An app which helps people of an organization to book a private cab where Ola and Uber services are not guaranteed.
 \item Developed the complete App from scratch, including frontend and backend.
 \end{tightemize}
-Github Link:// \href{https://github.com/shaurya96/Cabpool_App}{\custombold{Cabpool App}} \\ 
+Github Link: {\custombold{https://github.com/shaurya96/Cabpool\_App}} \\ 
 \sectionsep
 
 \runsubsection{LeTalent} \\
@@ -215,7 +217,7 @@ Github Link:// \href{https://github.com/shaurya96/Cabpool_App}{\custombold{Cabpo
 \item It's a Talent Marketplace where freelancers can showcase their skills.
 \item It's build using Node.js, express.js, mongodb as backend and React.js as frontend. 
 \end{tightemize}
-Github Link:// \href{https://github.com/shaurya96/letalent}{\custombold{LeTalent}} \\ 
+Github Link: {\custombold{https://github.com/shaurya96/letalent}} \\ 
 \sectionsep
 
 
@@ -224,11 +226,6 @@ Github Link:// \href{https://github.com/shaurya96/letalent}{\custombold{LeTalent
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{INTERNSHIP/PROFESSIONAL EXPERIENCE}
-\runsubsection{Plinth 2017}
-\location{LNMIIT,Jaipur}
-Attended \textbf{\href{https://en.wikitolearn.org/Main_Page}{\custombold{Wikitolearn}}} conference.\\
-\sectionsep
-
 \runsubsection{Data Structures and Algorithms}\\
 Currently learning Data Structures and Algorithms from Ravindra 
 babu Ravula for interview preparation.
@@ -238,6 +235,12 @@ babu Ravula for interview preparation.
 Was part of Breeze(Annual Cultural technical and sports fest)
 Backend Developer Team as backend developer in django.
 \sectionsep
+
+\runsubsection{Software Development Intern}\\
+\textbf{\href{https://param.ai/}{\custombold{Param.ai, Hyderabad}}}\\
+Worked on features of Param platform like Google Jobs,email Scheduler and fixing bugs in Python(Django).
+\sectionsep
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -249,7 +252,6 @@ Backend Developer Team as backend developer in django.
 \begin{tabular}{rll}
 2007  &      1\textsuperscript{st}/500  & State Level Abacus Competition \\
 2016	     & 1776\textsuperscript{th}/3500   & ACM-ICPC Qualification Round\\
-2009	     & 3\textsuperscript{rd}/50  & Eicher Inter School Quiz Competition\\
 2008     & 2\textsuperscript{nd}/100 & International Informatics Olympiad(School Level)  \\
 \end{tabular}
 \sectionsep
